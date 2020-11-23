@@ -13,5 +13,9 @@ Ce projet utilise les technologies suivantes :
 
 Après avoir fait un git clone de ce projet, vous devez effectué les actions suivantes :
 
+    composer install
+    php bin/console db:migrate
+    php bin/console d:f:l
+
 ## Lancement du projet :
   
